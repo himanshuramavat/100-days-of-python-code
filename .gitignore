@@ -1,0 +1,7 @@
+.idea
+course-info.yaml
+course-remote-info.yaml
+# Ignore all YAML files
+*.yaml
+*.yml
+*.md
